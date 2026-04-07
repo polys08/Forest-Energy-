@@ -27,10 +27,6 @@ body {
     z-index: 999;
 }
 
-.header.scrolled {
-    background-color: rgba(0, 0, 0, 0.9);
-}
-
 .btn-img:hover {
     transform: scale(1.1);
     filter: brightness(1.1) drop-shadow(0 0 8px orange);
@@ -204,7 +200,7 @@ section {
         top: 100%;
         left: 0;
         width: 100%;
-        background-color: rgba(0, 0, 0, 0.9);
+        background-color: rgba(0, 0, 0, 0.5);
         z-index: 1005;
     }
 
