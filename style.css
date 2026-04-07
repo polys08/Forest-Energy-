@@ -195,8 +195,6 @@ section {
     .hamburger{
         display: flex;
         position: relative;
-        right: 20px;
-        top: 25px;
         z-index: 1002;
     }
 
