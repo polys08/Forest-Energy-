@@ -11,10 +11,6 @@ hamburger.addEventListener('click', () => {
     hamburger.classList.toggle('active');
 });
 
-// pega os elementos
-const hamburger = document.getElementById('hamburger');
-const nav = document.getElementById('nav');
-
 // pega todos os links do menu
 const links = document.querySelectorAll('.nav-list a');
 
